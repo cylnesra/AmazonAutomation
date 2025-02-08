@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-03T18:10:44 TRT" name="TestLoggerSuite" finished-at="2024-11-03T18:11:30 TRT" duration-ms="46731">
+    <groups>
+    </groups>
+    <test started-at="2024-11-03T18:10:44 TRT" name="TestLog" finished-at="2024-11-03T18:11:30 TRT" duration-ms="46731">
+      <class name="org.example.tests.TestAddProductAyakkabi">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:10:44 TRT" name="setUp" finished-at="2024-11-03T18:10:50 TRT" duration-ms="6851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="acceptCookiesTest()[pri:1, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:10:50 TRT" name="acceptCookiesTest" finished-at="2024-11-03T18:10:52 TRT" duration-ms="2094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptCookiesTest -->
+        <test-method signature="menuButtonClickTest()[pri:2, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:10:52 TRT" name="menuButtonClickTest" finished-at="2024-11-03T18:10:55 TRT" duration-ms="2061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuButtonClickTest -->
+        <test-method signature="menuViewAllClickTest()[pri:3, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:10:55 TRT" name="menuViewAllClickTest" finished-at="2024-11-03T18:10:57 TRT" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuViewAllClickTest -->
+        <test-method signature="menuTurAyakkabiTest()[pri:4, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:10:57 TRT" name="menuTurAyakkabiTest" finished-at="2024-11-03T18:11:04 TRT" duration-ms="7035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuTurAyakkabiTest -->
+        <test-method signature="ayakkabiSecimTest()[pri:5, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:11:04 TRT" name="ayakkabiSecimTest" finished-at="2024-11-03T18:11:10 TRT" duration-ms="5999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ayakkabiSecimTest -->
+        <test-method signature="optionOlcüTest()[pri:6, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:11:10 TRT" name="optionOlcüTest" finished-at="2024-11-03T18:11:22 TRT" duration-ms="12151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- optionOlcüTest -->
+        <test-method signature="addToCartTest()[pri:7, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:11:22 TRT" name="addToCartTest" finished-at="2024-11-03T18:11:27 TRT" duration-ms="4836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method signature="goToCartTest()[pri:8, instance:org.example.tests.TestAddProductAyakkabi@303cd44a]" started-at="2024-11-03T18:11:27 TRT" name="goToCartTest" finished-at="2024-11-03T18:11:30 TRT" duration-ms="3505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCartTest -->
+      </class> <!-- org.example.tests.TestAddProductAyakkabi -->
+    </test> <!-- TestLog -->
+  </suite> <!-- TestLoggerSuite -->
+</testng-results>

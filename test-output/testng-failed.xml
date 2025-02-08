@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestLoggerSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestLog(failed)">
+    <classes>
+      <class name="org.example.tests.TestAddProductBebek">
+        <methods>
+          <include name="menuViewAllClickTest"/>
+          <include name="ürünMendilSecimiTest"/>
+          <include name="ürünSecimiTest"/>
+          <include name="kategoriBebekClickTest"/>
+          <include name="acceptCookiesTest"/>
+          <include name="altKategoriBebekClickTest"/>
+          <include name="setUp"/>
+          <include name="ürünSepeteEkleTest"/>
+          <include name="menuButtonClickTest"/>
+        </methods>
+      </class> <!-- org.example.tests.TestAddProductBebek -->
+    </classes>
+  </test> <!-- TestLog(failed) -->
+</suite> <!-- Failed suite [TestLoggerSuite] -->

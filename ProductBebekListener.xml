@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestLoggerSuite">
+    <test name="TestLog">
+        <classes>
+            <class name="org.example.tests.TestAddProductBebek"/>
+        </classes>
+    </test>
+</suite>
